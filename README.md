@@ -4,7 +4,9 @@ Updated from the **neuralnetworksanddeeplearning.com** gitHub repository in orde
 
 ## Sravya's Developments
 -Scripts are modified for user input functionality and user input image processing for testing dataset
+
 -Run "expand_mnist" to insert new testing image
+
 -Run "runner" to see network's output + accuracy
 
 
