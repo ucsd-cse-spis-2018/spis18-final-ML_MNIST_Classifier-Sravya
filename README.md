@@ -9,4 +9,9 @@ Updated from the **neuralnetworksanddeeplearning.com** gitHub repository in orde
 
 -Run "runner" to see network's output + accuracy
 
+## Further Work
+-Image consistency in uploading
 
+-Number segmentation
+
+-Letter segmentation
